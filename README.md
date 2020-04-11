@@ -6,9 +6,21 @@ My name is Utkarsh Tripathi and this is my showcase.
 
 ### Unity
 
-I am currently prototyping a space shooter game on Unity! Here is a screenshot of the progress so far:
+I am currently prototyping a space shooter game on Unity! 
 
-![](./media/unity.png)
+*Weekly Progress:*
+
+#### Week 1
+
+![](./media/week1.png)
+
+#### Week 2
+
+![](./media/week2.png)
+
+#### Week 3
+
+![](./media/week3.png)
 
 ### Dot files
 
