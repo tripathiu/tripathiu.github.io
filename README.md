@@ -22,8 +22,7 @@ I am currently prototyping a space shooter game on Unity!
 
 ![](./media/week3.png)
 
-### Dot files
 
-Here are my dot files!
+## Visit my github
 
-[Link to my github](github.com/tripathiu)
+[Link to my github](https://github.com/tripathiu)
