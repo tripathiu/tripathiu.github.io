@@ -1,10 +1,10 @@
-# Welcome
+# Welcome 🐌
 
 My name is Utkarsh Tripathi and this is my showcase.
 
-## Projects
+## Projects 💻
 
-### Unity
+### Unity 
 
 I am currently prototyping a space shooter game on Unity! 
 
