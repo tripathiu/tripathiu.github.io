@@ -2,13 +2,15 @@
 
 My name is Utkarsh Tripathi and this is my showcase.
 
-## Projects 💻
+## Projects 🔧
 
 ### Unity 
 
-I am currently prototyping a space shooter game on Unity! 
+I am currently prototyping a space shooter game inspired by 
+the classic Atari game Asteroids! Here is the progress so 
+far... 
 
-*Weekly Progress:*
+**Weekly Progress**
 
 #### Week 1
 
@@ -21,6 +23,10 @@ I am currently prototyping a space shooter game on Unity!
 #### Week 3
 
 <img src="./media/week3.png" alt="drawing" width="300"/>
+
+#### Week 4
+
+<img src="./media/week4.png" alt="drawing" width="300"/>
 
 
 ## Visit my github
