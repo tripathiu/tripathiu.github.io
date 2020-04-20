@@ -12,15 +12,15 @@ I am currently prototyping a space shooter game on Unity!
 
 #### Week 1
 
-![](./media/week1.png =300x)
+<img src="./media/week1.png" alt="drawing" width="300"/>
 
 #### Week 2
 
-![](./media/week2.png =300x)
+<img src="./media/week2.png" alt="drawing" width="300"/>
 
 #### Week 3
 
-![](./media/week3.png =300x)
+<img src="./media/week3.png" alt="drawing" width="300"/>
 
 
 ## Visit my github
