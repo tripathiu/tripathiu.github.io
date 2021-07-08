@@ -159,6 +159,32 @@ Led a technical team engaged in radio astronomy, radio telescopy, and star-track
   *Journal of Aerospace Engineering, 33(2)*. DOI:
   10.1061/(ASCE)AS.1943-5525.0001102
 
+## Certifications
+
+**Northwestern University | Coursera**:
+Modern Robotics, Course 1: Foundations of Robot Motion
+
+**Northwestern University | Coursera**:
+Modern Robotics, Course 2: Robot Kinematics
+
+**Northwestern University | Coursera**:
+Modern Robotics, Course 3: Robot Dynamics
+
+**edX**:
+PH526x: Python
+
+**Hewlett Packard Enterprise**:
+Core Java and Android Development
+
+**Unity Technologies**:
+Create with Code (36 hours)
+
+**MakerMax Inc.**:
+I2C Protocol Masterclass - Embedded Systems STM32
+
+**MakerMax Inc.**:
+Arm Cortex M Development using STM32F4
+
 ## More Information
 
 [linkedin.com/in/tripathi-utkarsh](linkedin.com/in/tripathi-utkarsh)
