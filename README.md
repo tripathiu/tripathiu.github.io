@@ -1,5 +1,3 @@
-# Utkarsh Tripathi
-
 **Phone**: +91 76073 68279
 
 **Email**: [tripathiu7596@gmail.com](mailto:tripathiu7596@gmail.com)
