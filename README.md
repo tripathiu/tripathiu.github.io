@@ -57,20 +57,20 @@ PID control systems, and sensor I2C and UART communication.
 
 ## Skills
 
-* **Developmental Tools**:
+**Developmental Tools**:
 Gazebo,
 ROS,
 Simulink,
 Unity
 
-* **Programming Languages**:
+**Programming Languages**:
 Bash,
 C,
 C++,
 Matlab,
 Python
 
-* **Collaboration Tools**:
+**Collaboration Tools**:
 Git,
 GitLab, GitHub,
 Linux,
