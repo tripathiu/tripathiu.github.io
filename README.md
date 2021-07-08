@@ -121,13 +121,13 @@ Led a technical team engaged in radio astronomy, radio telescopy, and star-track
 
 * Created a library for integration of an MPU6050 accelerometer with the MCU
   over I2C protocol using the HAL abstraction layer for an STM32 target.
-  [github.com/tripathiu/MPU6050-HAL-driver](github.com/tripathiu/MPU6050-HAL-driver)
+  [github.com/tripathiu/MPU6050-HAL-driver](https://github.com/tripathiu/MPU6050-HAL-driver)
 
 * Creating a platform agnostic C++ framework for an HID keyboard
-  [github.com/tripathiu/MPU6050-HAL-driver](github.com/tripathiu/kbd1.1-fw)
+  [github.com/tripathiu/kbd1.1-fw](https://github.com/tripathiu/kbd1.1-fw)
 
 * Created an algorithmic trading framework which integrates with the
-  user's broker account [github.com/tripathiu/trend-trade](github.com/tripathiu/trend-trade)
+  user's broker account [github.com/tripathiu/trend-trade](https://github.com/tripathiu/trend-trade)
 
 ## Achievements
 
