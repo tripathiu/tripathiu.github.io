@@ -131,6 +131,32 @@ Led a technical team engaged in radio astronomy, radio telescopy, and star-track
 * Created an algorithmic trading framework which integrates with the
   user's broker account [github.com/tripathiu/trend-trade](https://github.com/tripathiu/trend-trade)
 
+## Certifications
+
+**Northwestern University | Coursera**:
+Modern Robotics, Course 1: Foundations of Robot Motion
+
+**Northwestern University | Coursera**:
+Modern Robotics, Course 2: Robot Kinematics
+
+**Northwestern University | Coursera**:
+Modern Robotics, Course 3: Robot Dynamics
+
+**edX**:
+PH526x: Python
+
+**Hewlett Packard Enterprise**:
+Core Java and Android Development
+
+**Unity Technologies**:
+Create with Code (36 hours)
+
+**MakerMax Inc.**:
+I2C Protocol Masterclass - Embedded Systems STM32
+
+**MakerMax Inc.**:
+Arm Cortex M Development using STM32F4
+
 ## Achievements
 
 1. First position in innovation category, Siemens India Innovathon, 2019
@@ -158,32 +184,6 @@ Led a technical team engaged in radio astronomy, radio telescopy, and star-track
   Modeling, and Stability of a Reconfigurable Multirotor Aerial Vehicle.
   *Journal of Aerospace Engineering, 33(2)*. DOI:
   10.1061/(ASCE)AS.1943-5525.0001102
-
-## Certifications
-
-**Northwestern University | Coursera**:
-Modern Robotics, Course 1: Foundations of Robot Motion
-
-**Northwestern University | Coursera**:
-Modern Robotics, Course 2: Robot Kinematics
-
-**Northwestern University | Coursera**:
-Modern Robotics, Course 3: Robot Dynamics
-
-**edX**:
-PH526x: Python
-
-**Hewlett Packard Enterprise**:
-Core Java and Android Development
-
-**Unity Technologies**:
-Create with Code (36 hours)
-
-**MakerMax Inc.**:
-I2C Protocol Masterclass - Embedded Systems STM32
-
-**MakerMax Inc.**:
-Arm Cortex M Development using STM32F4
 
 ## More Information
 
