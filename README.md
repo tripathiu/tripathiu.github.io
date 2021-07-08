@@ -1,8 +1,3 @@
----
-title: Utkarsh Tripathi's resumé
-layout: default
----
-
 # Utkarsh Tripathi
 
 **Phone**: +91 76073 68279
