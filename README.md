@@ -191,3 +191,5 @@ Arm Cortex M Development using STM32F4
 
 [github.com/tripathiu](github.com/tripathiu)
 
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
