@@ -1,7 +1,3 @@
----
-title: Utkarsh Tripathi
----
-
 # Utkarsh Tripathi
 
 **Phone**: +91 76073 68279
