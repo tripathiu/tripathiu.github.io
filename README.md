@@ -48,6 +48,8 @@ Developed a UAV platform for precision agriculture applications involving
 trajectory control, and SIL simulations using DroneKit python API. Performed
 field tests algorithm evaluation.
 
+[Link to bachelor thesis](./150907396.pdf)
+
 ### Towbotic Systems Pvt. Ltd., Mumbai, India
 
 #### Intern (1m)
